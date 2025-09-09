@@ -1,4 +1,4 @@
-#*Cafeen-Java
+# Cafeen-Java
 
 This is a java version of the popular mouse wiggling app called "Caffeine".
 
